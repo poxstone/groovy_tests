@@ -13,3 +13,4 @@ proccess.waitFor()
 proccess 
 def result = proccess.text
 println result
+print gcp_params.dev.prj
